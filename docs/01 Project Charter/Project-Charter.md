@@ -66,7 +66,27 @@ Additionally, manual inventory handling increases the likelihood of human errors
 To address these issues, the organization requires a centralized, secure, and scalable inventory management system that improves operational efficiency, ensures data integrity, and provides complete visibility into inventory activities.
 
 4. Project Objectives
+# 4. Project Objectives
 
+The primary objectives of the Inventory Management System (IMS) project are:
+
+- Develop a centralized web-based inventory management system that replaces manual inventory operations.
+
+- Improve inventory accuracy by maintaining real-time product quantities and transaction records.
+
+- Simplify the management of products, categories, warehouses, customers, and sales invoices through an integrated platform.
+
+- Provide complete traceability for inventory transactions, including stock additions, stock removals, returns, damaged products, inventory adjustments, and inventory counting operations.
+
+- Enable users to generate accurate reports and dashboards that support daily operations and business decision-making.
+
+- Reduce operational errors caused by manual record keeping and disconnected processes.
+
+- Provide a secure and user-friendly application that is accessible through modern web browsers.
+
+- Deliver a responsive Arabic user interface (RTL) that is easy to use for all intended users.
+
+- Design the system using a scalable architecture that supports future enhancements such as supplier management, purchase orders, barcode integration, and role-based access control.
 5. Scope
 
 6. Out of Scope
