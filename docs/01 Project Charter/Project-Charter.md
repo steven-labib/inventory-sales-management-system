@@ -42,9 +42,28 @@ The system provides a centralized platform for managing products, warehouses, in
 The primary objective of the project is to replace manual inventory management processes with a secure, scalable, and user-friendly solution that minimizes human errors, improves inventory tracking, and supports business growth.
 
 The first release focuses on core inventory management functionalities, including product management, warehouse management, customer management, inventory transactions, sales invoicing, reporting, and dashboard analytics. The system is designed with scalability in mind to support future enhancements such as supplier management, purchase orders, barcode integration, role-based access control, and accounting integration.
+
 2. Business Need
+# 2. Business Need
+
+The client currently manages inventory operations using manual processes, which increase the risk of data inconsistency, inventory inaccuracies, delayed reporting, and operational inefficiencies.
+
+As the business grows, managing products, warehouses, inventory movements, customers, and sales transactions manually becomes increasingly difficult. The lack of a centralized system limits real-time visibility into stock availability and makes decision-making slower and more error-prone.
+
+The Inventory Management System (IMS) is proposed to provide a centralized digital solution that automates inventory operations, improves data accuracy, enhances operational efficiency, and provides reliable reporting capabilities.
+
+The system will enable users to monitor inventory levels, manage products and warehouses, record inventory transactions, generate sales invoices, and access business insights through dashboards and reports. By replacing manual processes with an integrated solution, the organization aims to improve productivity, reduce operational costs, and establish a scalable foundation for future business expansion.
 
 3. Problem Statement
+# 3. Problem Statement
+
+The client currently relies on manual methods to manage inventory, product movements, customer information, and sales transactions. These manual processes create several operational challenges that negatively impact business efficiency and data accuracy.
+
+The absence of a centralized inventory management system makes it difficult to monitor stock levels, track inventory movements, generate reliable reports, and maintain accurate records of sales and customer transactions.
+
+Additionally, manual inventory handling increases the likelihood of human errors, duplicate records, inventory discrepancies, and delays in accessing critical business information. As business operations continue to grow, these challenges become more significant and reduce the organization's ability to make timely and informed decisions.
+
+To address these issues, the organization requires a centralized, secure, and scalable inventory management system that improves operational efficiency, ensures data integrity, and provides complete visibility into inventory activities.
 
 4. Project Objectives
 
