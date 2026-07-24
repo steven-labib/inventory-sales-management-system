@@ -495,6 +495,18 @@ The project will be executed through the following major milestones.
 | M-007 | Production Deployment | Deployment of the system to the client's production environment. |
 | M-008 | Project Closure | Final delivery, user training, and project handover. |
 
+---
+
+Next Document
+
+Business Rules Specification (BRS)
+
+Purpose
+
+Defines all approved business rules governing the system.
+
+---
+
 15. Approval
 
 # 15. Approval
@@ -505,4 +517,5 @@ The undersigned acknowledge that they have reviewed and approved this Project Ch
 |------|------|-----------|------|
 | Client | Project Sponsor | | |
 | Steven Labib | Project Developer | | |
+
 
