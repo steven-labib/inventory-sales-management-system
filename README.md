@@ -1,4 +1,4 @@
-# 📦 Inventory Management System (IMS)
+# 📦 Inventory & Sales Management System
 
 A professional Inventory Management System designed for small and medium-sized businesses to efficiently manage products, inventory, warehouses, customers, sales, payments, and business reports.
 
